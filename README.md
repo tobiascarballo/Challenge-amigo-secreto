@@ -1,6 +1,6 @@
 # Challenge Amigo Secreto - Alura Latam
 
-- Estado del proyecto: Terminado (con posibles actualizaciones en el futuro)
+- Estado del proyecto: *Terminado* (con posibles actualizaciones en el futuro)
 
 ## En esta ocasión se desarrollo un aplicativo en donde sale un nombre sorteado luego de haber colocado todos los que se quiera.
 ---
